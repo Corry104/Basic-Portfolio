@@ -97,3 +97,23 @@ footer {
     position: fixed;
     bottom: 0; 
 }
+
+
+input[type=text]  {
+    border: solid 3px lemonchiffon;
+    border-style: dotted;
+    padding: 10px 60px;
+    width: 30%;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+textarea {
+    border: solid 3px lemonchiffon;
+    border-style: dotted;
+    width: 30%;
+    padding: 10px 60px;
+    height: 170px;
+}
