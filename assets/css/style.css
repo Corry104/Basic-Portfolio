@@ -64,13 +64,20 @@ a:focus {
 .container {
     width: 960px;
     margin: 0 auto;
-    background-color: #ffffff8c;
     border-color: blue;
+    border: 2px solid burlywood;
+    margin-top: 10%;
+    background-color: white;
+}
+
+h2 {
+    border-bottom: 1px solid burlywood;
 }
 
 
 .my_picture {
     width: 15%;
+    margin-top: 5%;
 }
 
 p {
@@ -78,6 +85,7 @@ p {
     float: right;
     font-style: italic;
     color: red;
+    margin-top: 5%;
 }
 
 footer {
