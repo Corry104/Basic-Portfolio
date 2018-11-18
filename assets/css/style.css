@@ -22,8 +22,8 @@ header {
     margin: auto;
     float: left;
 }
+
 h1 {
-    background: gray;
     text-align: center;
     margin: 0px 30% 0px 20%;
     height: 100%;
@@ -31,6 +31,8 @@ h1 {
     float: left;
     line-height: 50px;
     color: blue;
+    FONT-STYLE: italic;
+    FONT-SIZE: 35PX;
 }
 
 nav {
