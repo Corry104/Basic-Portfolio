@@ -146,19 +146,46 @@ textarea {
     height: 170px;
 }
 
-.portfolio_pic {
-    float: left;
-    margin: 20px;
-    width: 40%;
-    height: auto;
+#chef, #nature, #nic_cage, #ocean, #zombie {
+    margin: 0.5% auto;
+    width: 450px;
+    height: 350px;
+
 }
 
-.hero-image {
-    background-image: 
+#chef {
+    background-image: url(../images/chef.jpg);
     float: left;
-    margin: 20px;
+
+}
+
+#nature {
+    background-image: url(../images/nature.jpg);
+    float: right;
+
+}
+
+#nic_cage {
+    background-image: url(../images/nic_cage.jpg);
+    float: left;
+}
+
+#ocean {
+    background-image: url(../images/ocean.jpeg);
+    float: right;
+}
+
+#zombie {
+    background-image: url(../images/zombie.jpeg);
+    float: left; 
+}
+
+h4 {
+    background-color: #666666;
+    color: #dddddd;
+    font-size: 35px;
     width: 100%;
-
+    text-align: center;
+    padding: 6%;
+    margin-top: 50%;
 }
-
-
